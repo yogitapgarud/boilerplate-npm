@@ -3,8 +3,11 @@
 	"name": "fcc-learn-npm-package-json",
 	"description": "node js learnings",
 	"keywords": ["descriptive", "related", "freecodecamp"]
+	"license": "MAC-Yogita",
+	"version": "1.0",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"moment": "2.10.2"
 	},
 	"main": "server.js",
 	"scripts": {
