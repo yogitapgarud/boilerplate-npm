@@ -1,6 +1,8 @@
 {
 	"author": "Jane Doe",
 	"name": "fcc-learn-npm-package-json",
+	"description": "node js learnings",
+	"keywords": ["descriptive", "related", "freecodecamp"]
 	"dependencies": {
 		"express": "^4.14.0"
 	},
